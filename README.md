@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Technology Stack
+1. Typescript
+2. React
+3. Bootstrap
+4. Admin-LTE
+
+Endpoint
+`/login` => sign in as user or admin
+`/register` => sign up as user
+`/` => homepage
+`/users` => list of user
+`/transactions` => list of requests
+
